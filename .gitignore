@@ -1,0 +1,18 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Secrets and OAuth
+credentials/
+client_secret.json
+
+# Output and logs
+data/
+*.json
+*.txt
+
+# VS Code (optional)
+.vscode/
