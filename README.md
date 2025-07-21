@@ -19,6 +19,7 @@ Automate the management of your YouTube subscriptions using the **YouTube Data A
 
 ## 🗂 Project Structure
 
+```
 youtube-subscription-manager/
 │
 ├── src/
@@ -33,7 +34,7 @@ youtube-subscription-manager/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
